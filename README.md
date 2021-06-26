@@ -1,6 +1,6 @@
 # UK-Railway-Announcement-Model
 
-This program an “UK Railway Announcement System” made using python. I have used Virtual Studio Code IDE for this project.
+This program an “UK Railway Announcement System” made using python. I have used Visual Studio Code IDE for this project.
 
  
 Prerequisite: The prerequisite of this project is the basic knowledge of python.
